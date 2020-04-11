@@ -1,5 +1,5 @@
 # GAN_MNIST
-本代码是《实战GAN:TensorFlow与Keras生成对抗网络构建/(美) Josh Kalin著 刘梦馨译》中讲解的代码，稍加了一点内容。
+本代码是《实战GAN:TensorFlow与Keras生成对抗网络构建/(美) Josh Kalin著 刘梦馨译》中讲解的代码，稍作修改。
 
 一个简单的生成对抗网络（GAN），用作MNIST数字生成器。
 
